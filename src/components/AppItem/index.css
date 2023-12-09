@@ -1,0 +1,51 @@
+.list-container {
+  margin-top: 10px;
+}
+.app-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.image {
+  height: 85px;
+  width: 150px;
+  margin-right: 20px;
+}
+.genre-details-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.heading-name {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: 'Roboto';
+}
+.heading-genre {
+  font-size: 22px;
+  font-family: 'Roboto';
+  color: #3b82f6;
+}
+.delete-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.time-duration {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: 'Roboto';
+  margin-right: 15px;
+}
+.delete-button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.delete-icon {
+  color: #ffffff;
+  height: 22px;
+  margin-right: 20px;
+}
